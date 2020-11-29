@@ -1,0 +1,24 @@
+{
+  "name": "fullstack-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "private": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domko95/fullstack-template.git"
+  },
+  "author": "Dominique Kolbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domko95/fullstack-template/issues"
+  },
+  "homepage": "https://github.com/domko95/fullstack-template#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
